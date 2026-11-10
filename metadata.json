@@ -1,0 +1,6 @@
+{
+  "name": "AuditPro - ระบบตรวจประเมินภายในและจัดการ CAR อัจฉริยะ",
+  "description": "ระบบวางแผน Internal Audit แต่ละแผนกตามมาตรฐาน ISO/GMP สร้างคำถามตรวจประเมินอัตโนมัติ บันทึกการสัมภาษณ์พร้อม AI วิเคราะห์ข้อกำหนดและระดับ NC (Major, Minor, OFI) และติดตามปิด CAR ครบวงจร",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
